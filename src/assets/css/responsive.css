@@ -1,0 +1,39 @@
+@media(max-width: 786px){
+    .content .info {
+        margin-top: 0 !important;
+    }
+
+    .brands_container{
+        position: static !important;
+        width: 100% !important;
+    }
+
+    .copyright p,
+    .content .info a.about button, section.services a button, section.works a button, section.team a button{
+        margin-bottom: 10px !important;
+    }
+
+    .statistics .stat{
+        margin-bottom: 20px !important;
+    }
+
+    .statistics{
+        padding: 50px 0 50px !important;
+    }
+
+    .job-block .company-logo {
+        width: 33% !important;
+        text-align: center !important;
+        margin: auto !important;
+    }
+
+    .job-block .company-logo img{
+        width: 36%;
+        margin: 0 auto;
+        display: flex;
+    }
+
+    section.careers .head form .form-control{
+        margin-bottom: 10px !important;
+    }
+}
